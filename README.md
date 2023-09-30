@@ -1,2 +1,2 @@
 # simple-raylib-jet-fighter
-Classic arcare Jet fighter remade in raylib and cpp
+Classic arcade Jet fighter remade in raylib and cpp
